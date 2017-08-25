@@ -1,3 +1,18 @@
+#Reference
+
+[original-wechat-keras](https://github.com/QuantumLiu/wechat_callback)original
+
+[天清-知乎专栏]（https://zhuanlan.zhihu.com/p/25670072）
+
+
+[original-wechat-tensorflow](https://zhuanlan.zhihu.com/p/25597975)
+
+[original-email-caffe](https://zhuanlan.zhihu.com/p/25767465)
+
+[limbo0000/Email](https://github.com/limbo0000/Email)
+
+
+
 # wechat_callback<br />
 可移步知乎专栏查看详情https://zhuanlan.zhihu.com/p/25670072
 ## Requirement
