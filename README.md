@@ -1,4 +1,7 @@
 
+The detail information you can check the following original blog
+
+
 **Reference**
 
 [original-wechat-keras](https://github.com/QuantumLiu/wechat_callback)
